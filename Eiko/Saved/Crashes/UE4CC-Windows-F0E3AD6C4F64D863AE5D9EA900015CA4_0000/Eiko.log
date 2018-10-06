@@ -1,0 +1,1157 @@
+﻿Log file open, 10/06/18 14:05:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Eiko
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.371046
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.383s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:       Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz, GPU: NVIDIA GeForce GTX 560M
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.06-19.05.01:161][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-19.05.01:162][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.06-19.05.01:228][  0]LogHAL: Display: Platform has ~ 12 GB [12860948480 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.06-19.05.01:229][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.06-19.05.01:229][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.06-19.05.01:231][  0]LogInit: Computer: DESKTOP-GCVK9JQ
+[2018.10.06-19.05.01:231][  0]LogInit: User: Elena
+[2018.10.06-19.05.01:231][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.06-19.05.01:231][  0]LogInit: High frequency timer resolution =1.948701 MHz
+[2018.10.06-19.05.01:232][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.10.06-19.05.01:232][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.06-19.05.01:232][  0]LogMemory: Process Physical Memory: 101.45 MB used, 101.45 MB peak
+[2018.10.06-19.05.01:232][  0]LogMemory: Process Virtual Memory: 93.09 MB used, 93.09 MB peak
+[2018.10.06-19.05.01:233][  0]LogMemory: Physical Memory: 4727.59 MB used,  7537.56 MB free, 12265.16 MB total
+[2018.10.06-19.05.01:233][  0]LogMemory: Virtual Memory: 4628.06 MB used,  7537.56 MB free, 134217728.00 MB total
+[2018.10.06-19.05.01:338][  0]LogInit: Using OS detected language (en-US).
+[2018.10.06-19.05.01:338][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.06-19.05.01:346][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.06-19.05.02:699][  0]LogStreaming: Display: Took  1.361s to InitEngineTextLocalization.
+[2018.10.06-19.05.02:699][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.06-19.05.02:761][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.06-19.05.02:761][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.06-19.05.03:167][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-19.05.03:167][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.06-19.05.03:206][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 560M' (Feature Level 11_0)
+[2018.10.06-19.05.03:206][  0]LogD3D11RHI:       3020/0/6132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.06-19.05.03:210][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.06-19.05.03:210][  0]LogD3D11RHI:       0/0/6132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.06-19.05.03:210][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.06-19.05.03:219][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.06-19.05.03:219][  0]LogD3D11RHI:     GPU DeviceId: 0x1251 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.06-19.05.03:219][  0]LogWindows: EnumDisplayDevices:
+[2018.10.06-19.05.03:219][  0]LogWindows:    0. 'NVIDIA GeForce GTX 560M' (P:1 D:1)
+[2018.10.06-19.05.03:220][  0]LogWindows:    1. 'NVIDIA GeForce GTX 560M' (P:0 D:0)
+[2018.10.06-19.05.03:220][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2018.10.06-19.05.03:220][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 560M
+[2018.10.06-19.05.03:220][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2018.10.06-19.05.03:220][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2018.10.06-19.05.03:220][  0]LogRHI: Texture pool is 2114 MB (70% of 3020 MB)
+[2018.10.06-19.05.03:243][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.10.06-19.05.03:243][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.06-19.05.03:256][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.10.06-19.05.03:305][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (F:/My Documents/GitHub/EikoFotM/Eiko/Intermediate/Shaders/WorkingDirectory/10212/).
+[2018.10.06-19.05.03:305][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Elena/AppData/Local/Temp/UnrealShaderWorkingDir/8E2521864563D3A09FDE5E9983F162DC/'.
+[2018.10.06-19.05.03:798][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.06-19.05.03:826][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.06-19.05.03:849][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.06-19.05.03:872][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.06-19.05.03:896][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.06-19.05.03:921][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.06-19.05.03:944][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.06-19.05.03:967][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.06-19.05.03:979][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.06-19.05.04:136][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.06-19.05.04:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-19.05.04:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.06-19.05.04:264][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-19.05.04:264][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.06-19.05.04:286][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.06-19.05.04:308][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.06-19.05.04:329][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.06-19.05.04:354][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.06-19.05.04:370][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.06-19.05.04:370][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.06-19.05.04:496][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.06-19.05.04:496][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.06-19.05.04:496][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.06-19.05.05:875][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.06-19.05.05:974][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Elena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-19.05.05:975][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Elena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.06-19.05.05:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/My Documents/GitHub/EikoFotM/Eiko/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.06-19.05.05:975][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.06-19.05.05:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/My Documents/GitHub/EikoFotM/Eiko/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.06-19.05.05:975][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.06-19.05.05:997][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.06-19.05.06:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Elena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.06-19.05.06:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.06-19.05.06:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.06-19.05.06:043][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.06-19.05.06:045][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.06-19.05.06:047][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.06-19.05.06:173][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.10.06-19.05.06:792][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.06-19.05.07:045][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.06-19.05.07:053][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.06-19.05.07:053][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.06-19.05.07:053][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.06-19.05.07:053][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.06-19.05.07:077][  0]LogNetVersion: Eiko 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1958715332)
+[2018.10.06-19.05.09:342][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.727741 seconds
+[2018.10.06-19.05.09:368][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.06-19.05.09:368][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.06-19.05.09:368][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.06-19.05.11:129][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.06-19.05.11:145][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.06-19.05.11:371][  0]SourceControl: Source control is disabled
+[2018.10.06-19.05.11:371][  0]SourceControl: Source control is disabled
+[2018.10.06-19.05.11:374][  0]SourceControl: Source control is disabled
+[2018.10.06-19.05.11:376][  0]SourceControl: Source control is disabled
+[2018.10.06-19.05.11:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.06-19.05.11:756][  0]LogOcInput: OculusInput pre-init called
+[2018.10.06-19.05.11:856][  0]LogEngine: Initializing Engine...
+[2018.10.06-19.05.11:858][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.06-19.05.11:860][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-19.05.11:860][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-19.05.11:860][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-19.05.11:860][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-19.05.12:211][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.06-19.05.12:239][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.06-19.05.12:252][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.05.12:304][  0]LogInit: FAudioDevice initialized.
+[2018.10.06-19.05.12:305][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.06-19.05.12:797][  0]LogDerivedDataCache: Saved boot cache 0.49s 71MB C:/Users/Elena/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.06-19.05.12:823][  0]LogInit: Texture streaming: Enabled
+[2018.10.06-19.05.12:938][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.06-19.05.13:031][  0]LogInit: Transaction tracking system initialized
+[2018.10.06-19.05.13:209][  0]BlueprintLog: New page: Editor Load
+[2018.10.06-19.05.13:725][  0]LocalizationService: Localization service is disabled
+[2018.10.06-19.05.14:651][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.06-19.05.14:651][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.06-19.05.14:651][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.06-19.05.14:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.06-19.05.14:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.06-19.05.14:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.06-19.05.14:651][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.06-19.05.14:887][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/' took 0.02s
+[2018.10.06-19.05.14:887][  0]SourceControl: Source control is disabled
+[2018.10.06-19.05.14:887][  0]Cmd: MAP LOAD FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/EikoMainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.06-19.05.14:888][  0]LightingResults: New page: Lighting Build
+[2018.10.06-19.05.14:894][  0]MapCheck: New page: Map Check
+[2018.10.06-19.05.14:894][  0]LightingResults: New page: Lighting Build
+[2018.10.06-19.05.16:282][  0]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.05.16:322][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.06-19.05.16:354][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.06-19.05.16:794][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 439.563ms to complete.
+[2018.10.06-19.05.16:795][  0]LogFileHelpers: Loading map 'EikoMainLevel' took 1.908
+[2018.10.06-19.05.17:090][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.17:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.17:182][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.17:221][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.17:262][  0]LogCollectionManager: Loaded 0 collections in 0.012533 seconds
+[2018.10.06-19.05.17:338][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/Collections/' took 0.01s
+[2018.10.06-19.05.17:338][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Developers/Elena/Collections/' took 0.01s
+[2018.10.06-19.05.17:339][  0]LogFileCache: Scanning file cache for directory 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Collections/' took 0.01s
+[2018.10.06-19.05.17:339][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.06-19.05.17:388][  0]LogContentBrowser: Native class hierarchy populated in 0.0481 seconds. Added 2572 classes and 603 folders.
+[2018.10.06-19.05.17:430][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.10.06-19.05.17:848][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.10.06-19.05.17:883][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.10.06-19.05.17:956][  0]LogSlate: Took 0.000967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.06-19.05.17:967][  0]LogSlate: Took 0.001305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.06-19.05.17:997][  0]LogSlate: Took 0.001488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.06-19.05.18:475][  0]LogRenderer: Reallocating scene render targets to support 1164x600 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-19.05.18:607][  0]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-19.05.18:865][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.10.06-19.05.18:865][  0]LogLoad: (Engine Initialization) Total time: 24.27 seconds
+[2018.10.06-19.05.18:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.06-19.05.18:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.06-19.05.18:929][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.06-19.05.19:025][  2]LogAssetRegistry: Asset discovery search completed in 12.8746 seconds
+[2018.10.06-19.05.19:028][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.06-19.05.19:029][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000202 seconds (updated 0 objects)
+[2018.10.06-19.05.34:076][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.05.34:175][406]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.05.34:201][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.05.34:201][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.05.34:214][406]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:05:34 AM)
+[2018.10.06-19.05.34:214][406]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.05.34:225][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010904s)
+[2018.10.06-19.05.34:226][406]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.05.34:227][406]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.10.06-19.05.34:227][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.012350s)
+[2018.10.06-19.05.34:260][406]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.05.34:278][406]LogInit: FAudioDevice initialized.
+[2018.10.06-19.05.34:329][406]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.10.06-19.05.34:330][406]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.10.06-19.05.34:330][406]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.10.06-19.05.34:330][406]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.05.34:338][406]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.05.34
+[2018.10.06-19.05.34:339][406]LogWorld: Bringing up level for play took: 0.006935
+[2018.10.06-19.05.34:362][406]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.06-19.05.34:367][406]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel -0.631
+[2018.10.06-19.05.34:367][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.05.35:415][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.05.39:209][584]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.05.39:209][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.39:263][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.05.39:263][584]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.05.39:293][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.05.39:316][585]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.06-19.05.40:180][614]Cmd: SELECT NONE
+[2018.10.06-19.06.01:523][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.06.17:661][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.06.17:733][849]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.06.17:762][849]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.06.17:762][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.06.17:762][849]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:06:17 AM)
+[2018.10.06-19.06.17:762][849]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.06.17:777][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015132s)
+[2018.10.06-19.06.17:778][849]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.06.17:778][849]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.10.06-19.06.17:778][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.016652s)
+[2018.10.06-19.06.17:814][849]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.06.17:831][849]LogInit: FAudioDevice initialized.
+[2018.10.06-19.06.17:864][849]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.06.17:872][849]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.06.17
+[2018.10.06-19.06.17:872][849]LogWorld: Bringing up level for play took: 0.007212
+[2018.10.06-19.06.17:890][849]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel 0.893
+[2018.10.06-19.06.17:891][849]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.06.18:934][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.06.22:031][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.06.22:032][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.06.22:094][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.06.22:095][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.06.22:189][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.06.22:285][995]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.06-19.06.23:219][ 25]Cmd: SELECT NONE
+[2018.10.06-19.06.25:813][114]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2018.10.06-19.06.29:436][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.06.50:060][711]Cmd: TRANSACTION UNDO
+[2018.10.06-19.06.50:060][711]LogEditorTransaction: Undo Move Actors
+[2018.10.06-19.06.50:096][711]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.06-19.06.50:296][718]Cmd: TRANSACTION UNDO
+[2018.10.06-19.06.50:296][718]LogEditorTransaction: Undo Move Actors
+[2018.10.06-19.06.50:686][731]Cmd: TRANSACTION UNDO
+[2018.10.06-19.06.50:686][731]LogEditorTransaction: Undo Move Actors
+[2018.10.06-19.06.51:790][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.07.07:833][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.07.26:362][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.08.10:494][724]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.08.10:887][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.08.10:888][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.08.10:888][724]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:08:10 AM)
+[2018.10.06-19.08.10:888][724]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.08.10:906][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017606s)
+[2018.10.06-19.08.10:907][724]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.08.10:907][724]LogPlayLevel: PIE: World Init took: (0.001502s)
+[2018.10.06-19.08.10:908][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.019483s)
+[2018.10.06-19.08.10:947][724]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.08.10:964][724]LogInit: FAudioDevice initialized.
+[2018.10.06-19.08.11:001][724]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.08.11:008][724]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.08.11
+[2018.10.06-19.08.11:009][724]LogWorld: Bringing up level for play took: 0.006711
+[2018.10.06-19.08.11:026][724]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel 0.029
+[2018.10.06-19.08.11:027][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.08.12:139][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.08.21:582][203]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.08.21:583][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.08.21:653][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.08.21:654][203]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.08.21:747][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.08.21:832][204]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.10.06-19.08.27:351][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.08.41:029][765]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.06-19.08.53:450][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.09.03:851][364]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.06-19.09.11:192][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.09.41:557][324]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.09.42:232][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.09.42:232][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.09.42:232][324]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:09:42 AM)
+[2018.10.06-19.09.42:232][324]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.09.42:246][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013647s)
+[2018.10.06-19.09.42:247][324]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.09.42:247][324]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2018.10.06-19.09.42:248][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.015112s)
+[2018.10.06-19.09.42:285][324]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.09.42:302][324]LogInit: FAudioDevice initialized.
+[2018.10.06-19.09.42:341][324]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.09.42:348][324]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.09.42
+[2018.10.06-19.09.42:349][324]LogWorld: Bringing up level for play took: 0.007063
+[2018.10.06-19.09.42:366][324]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel -0.632
+[2018.10.06-19.09.42:366][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.09.43:573][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.09.55:883][907]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.09.55:884][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.09.55:946][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.09.55:947][907]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.09.56:044][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.09.56:131][908]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.10.06-19.09.58:699][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.10.00:410][ 39]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.10.06-19.10.00:445][ 39]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.10.06-19.10.01:912][101]Cmd: TRANSACTION UNDO
+[2018.10.06-19.10.01:912][101]LogEditorTransaction: Undo Delete selection
+[2018.10.06-19.10.11:464][375]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.10.06-19.10.11:508][375]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.06-19.10.38:842][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.10.38:916][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.10.47:169][527]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.10.50:093][606]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.10.50:131][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.10.50:131][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.10.50:132][606]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:10:50 AM)
+[2018.10.06-19.10.50:132][606]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.10.50:144][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011999s)
+[2018.10.06-19.10.50:145][606]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.10.50:145][606]LogPlayLevel: PIE: World Init took: (0.001015s)
+[2018.10.06-19.10.50:145][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.013357s)
+[2018.10.06-19.10.50:183][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.10.50:199][606]LogInit: FAudioDevice initialized.
+[2018.10.06-19.10.50:233][606]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.10.50:240][606]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.10.50
+[2018.10.06-19.10.50:240][606]LogWorld: Bringing up level for play took: 0.006406
+[2018.10.06-19.10.50:257][606]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel -0.74
+[2018.10.06-19.10.50:258][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.10.51:721][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.10.53:070][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.10.53:071][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.10.53:133][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.10.53:134][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.10.53:234][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.10.53:337][727]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.10.06-19.10.55:519][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.10.56:476][806]LogEditorActor: Deleted Actor: PrecomputedVisibilityVolume
+[2018.10.06-19.10.56:504][806]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.10.06-19.11.46:902][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:902][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/HUD_BP.uasset.
+[2018.10.06-19.11.46:902][122]LoadErrors: Error: /Game/Menus/Collectible/HUD_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.11.46:906][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:906][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/HUD_BP.uasset.
+[2018.10.06-19.11.46:907][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:907][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/HUD_BP.uasset.
+[2018.10.06-19.11.46:909][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:909][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:909][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:910][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:910][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:910][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:910][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:910][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:913][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:913][122]LoadErrors: Failed to load /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter.EikoPlayerCharacter_C Referenced by K2Node_DynamicCast_0
+[2018.10.06-19.11.46:913][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:914][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:914][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:914][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:914][122]LoadErrors: Failed to load /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter.EikoPlayerCharacter_C Referenced by K2Node_VariableGet_0
+[2018.10.06-19.11.46:914][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:915][122]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.11.46:915][122]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.11.46:918][122]LogBlueprint: Error: [Compiler HUD_BP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.11.46:919][122]LogBlueprint: Error: [Compiler HUD_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.11.46:919][122]LogBlueprint: Error: [Compiler HUD_BP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.11.46:919][122]LogBlueprint: Warning: [Compiler HUD_BP] Could not find a variable named "TotemsCollected" in 'HUD_BP'.
+Make sure 'HUD_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.11.46:920][122]LogBlueprint: Warning: [Compiler HUD_BP] [0412.32] Compile of HUD_BP failed. 3 Fatal Issue(s) 1 Warning(s) [in 4 ms] (/Game/Menus/Collectible/HUD_BP.HUD_BP)
+[2018.10.06-19.11.46:940][122]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Collectible/HUD_BP.HUD_BP
+[2018.10.06-19.11.48:260][122]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.10.06-19.11.51:856][122]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.06-19.12.26:727][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.12.31:983][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.31:984][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible01_BP.uasset.
+[2018.10.06-19.12.31:984][220]LoadErrors: Error: /Game/Menus/Collectible/collectible01_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.12.31:991][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.31:991][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible01_BP.uasset.
+[2018.10.06-19.12.31:993][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.31:994][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible01_BP.uasset.
+[2018.10.06-19.12.31:994][220]LoadErrors: Error: /Game/Menus/Collectible/collectible01_BP : Can't find file for asset. /Game/Assets/Collectible/paperLantern
+[2018.10.06-19.12.31:995][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.31:995][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible01_BP.uasset.
+[2018.10.06-19.12.31:997][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.31:998][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible01_BP.uasset.
+[2018.10.06-19.12.32:004][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:005][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:007][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:008][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:008][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:009][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:010][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:011][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:011][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:012][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:013][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:014][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:024][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:025][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:026][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:027][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:029][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:029][220]LoadErrors: Failed to load /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter.EikoPlayerCharacter_C Referenced by K2Node_VariableSet_0
+[2018.10.06-19.12.32:030][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:032][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:033][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:035][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:035][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:037][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:037][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:042][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:043][220]LoadErrors: Failed to load /Game/Assets/Collectible/paperLantern.paperLantern Referenced by gem_GEN_VARIABLE
+[2018.10.06-19.12.32:043][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:063][220]LogBlueprint: Error: [Compiler collectible01_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:064][220]LogBlueprint: Warning: [Compiler collectible01_BP] Could not find a variable named "TotemsCollected" in 'collectible01_BP'.
+Make sure 'collectible01_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.12.32:064][220]LogBlueprint: Warning: [Compiler collectible01_BP] Could not find a variable named "TotemsCollected" in 'collectible01_BP'.
+Make sure 'collectible01_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.12.32:065][220]LogBlueprint: Error: [Compiler collectible01_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:065][220]LogBlueprint: Error: [Compiler collectible01_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.12.32:068][220]LogBlueprint: Error: [Compiler collectible01_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible01_BP.collectible01_BP_C'
+[2018.10.06-19.12.32:069][220]LogBlueprint: Error: [Compiler collectible01_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible01_BP.collectible01_BP_C'
+[2018.10.06-19.12.32:073][220]LogBlueprint: Warning: [Compiler collectible01_BP] [0457.47] Compile of collectible01_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 27 ms] (/Game/Menus/Collectible/collectible01_BP.collectible01_BP)
+[2018.10.06-19.12.32:110][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:111][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible02_BP.uasset.
+[2018.10.06-19.12.32:112][220]LoadErrors: Error: /Game/Menus/Collectible/collectible02_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.12.32:118][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:119][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible02_BP.uasset.
+[2018.10.06-19.12.32:120][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:120][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible02_BP.uasset.
+[2018.10.06-19.12.32:121][220]LoadErrors: Error: /Game/Menus/Collectible/collectible02_BP : Can't find file for asset. /Game/Assets/Collectible/paperLantern
+[2018.10.06-19.12.32:121][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:122][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible02_BP.uasset.
+[2018.10.06-19.12.32:124][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:124][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible02_BP.uasset.
+[2018.10.06-19.12.32:128][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:129][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:130][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:131][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:131][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:132][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:133][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:134][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:135][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:136][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:137][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:138][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:147][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:148][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:149][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:150][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:151][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:151][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:153][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:154][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:156][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:157][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:158][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:159][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:164][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:165][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:182][220]LogBlueprint: Error: [Compiler collectible02_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:183][220]LogBlueprint: Warning: [Compiler collectible02_BP] Could not find a variable named "TotemsCollected" in 'collectible02_BP'.
+Make sure 'collectible02_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.12.32:184][220]LogBlueprint: Warning: [Compiler collectible02_BP] Could not find a variable named "TotemsCollected" in 'collectible02_BP'.
+Make sure 'collectible02_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.12.32:184][220]LogBlueprint: Error: [Compiler collectible02_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:185][220]LogBlueprint: Error: [Compiler collectible02_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.12.32:187][220]LogBlueprint: Error: [Compiler collectible02_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible02_BP.collectible02_BP_C'
+[2018.10.06-19.12.32:187][220]LogBlueprint: Error: [Compiler collectible02_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible02_BP.collectible02_BP_C'
+[2018.10.06-19.12.32:191][220]LogBlueprint: Warning: [Compiler collectible02_BP] [0457.59] Compile of collectible02_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 23 ms] (/Game/Menus/Collectible/collectible02_BP.collectible02_BP)
+[2018.10.06-19.12.32:231][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:231][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible03_BP.uasset.
+[2018.10.06-19.12.32:232][220]LoadErrors: Error: /Game/Menus/Collectible/collectible03_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.12.32:242][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:242][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible03_BP.uasset.
+[2018.10.06-19.12.32:244][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:245][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible03_BP.uasset.
+[2018.10.06-19.12.32:245][220]LoadErrors: Error: /Game/Menus/Collectible/collectible03_BP : Can't find file for asset. /Game/Assets/Collectible/paperLantern
+[2018.10.06-19.12.32:246][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:247][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible03_BP.uasset.
+[2018.10.06-19.12.32:249][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:249][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible03_BP.uasset.
+[2018.10.06-19.12.32:254][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:254][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:255][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:256][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:256][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:257][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:258][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:258][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:259][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:260][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:261][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:261][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:269][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:270][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:272][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:272][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:273][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:274][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:276][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:277][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:278][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:279][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:280][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:281][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:286][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:287][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:307][220]LogBlueprint: Error: [Compiler collectible03_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:308][220]LogBlueprint: Warning: [Compiler collectible03_BP] Could not find a variable named "TotemsCollected" in 'collectible03_BP'.
+Make sure 'collectible03_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.12.32:308][220]LogBlueprint: Warning: [Compiler collectible03_BP] Could not find a variable named "TotemsCollected" in 'collectible03_BP'.
+Make sure 'collectible03_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.12.32:309][220]LogBlueprint: Error: [Compiler collectible03_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:309][220]LogBlueprint: Error: [Compiler collectible03_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.12.32:311][220]LogBlueprint: Error: [Compiler collectible03_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible03_BP.collectible03_BP_C'
+[2018.10.06-19.12.32:312][220]LogBlueprint: Error: [Compiler collectible03_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible03_BP.collectible03_BP_C'
+[2018.10.06-19.12.32:315][220]LogBlueprint: Warning: [Compiler collectible03_BP] [0457.72] Compile of collectible03_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 25 ms] (/Game/Menus/Collectible/collectible03_BP.collectible03_BP)
+[2018.10.06-19.12.32:354][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:355][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible04_BP.uasset.
+[2018.10.06-19.12.32:356][220]LoadErrors: Error: /Game/Menus/Collectible/collectible04_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.12.32:366][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:367][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible04_BP.uasset.
+[2018.10.06-19.12.32:369][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:370][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible04_BP.uasset.
+[2018.10.06-19.12.32:370][220]LoadErrors: Error: /Game/Menus/Collectible/collectible04_BP : Can't find file for asset. /Game/Assets/Collectible/paperLantern
+[2018.10.06-19.12.32:371][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:372][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible04_BP.uasset.
+[2018.10.06-19.12.32:373][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:374][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible04_BP.uasset.
+[2018.10.06-19.12.32:380][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:381][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:381][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:382][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:383][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:384][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:385][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:386][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:386][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:387][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:388][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:388][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:396][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:397][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:398][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:400][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:401][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:402][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:404][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:405][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:406][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:407][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:409][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:410][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:417][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:418][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:436][220]LogBlueprint: Error: [Compiler collectible04_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:436][220]LogBlueprint: Warning: [Compiler collectible04_BP] Could not find a variable named "TotemsCollected" in 'collectible04_BP'.
+Make sure 'collectible04_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.12.32:437][220]LogBlueprint: Warning: [Compiler collectible04_BP] Could not find a variable named "TotemsCollected" in 'collectible04_BP'.
+Make sure 'collectible04_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.12.32:438][220]LogBlueprint: Error: [Compiler collectible04_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:438][220]LogBlueprint: Error: [Compiler collectible04_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.12.32:440][220]LogBlueprint: Error: [Compiler collectible04_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible04_BP.collectible04_BP_C'
+[2018.10.06-19.12.32:441][220]LogBlueprint: Error: [Compiler collectible04_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible04_BP.collectible04_BP_C'
+[2018.10.06-19.12.32:446][220]LogBlueprint: Warning: [Compiler collectible04_BP] [0457.85] Compile of collectible04_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 25 ms] (/Game/Menus/Collectible/collectible04_BP.collectible04_BP)
+[2018.10.06-19.12.32:488][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:488][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible05_BP.uasset.
+[2018.10.06-19.12.32:489][220]LoadErrors: Error: /Game/Menus/Collectible/collectible05_BP : Can't find file for asset. /Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter
+[2018.10.06-19.12.32:495][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:496][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible05_BP.uasset.
+[2018.10.06-19.12.32:497][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:498][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible05_BP.uasset.
+[2018.10.06-19.12.32:498][220]LoadErrors: Error: /Game/Menus/Collectible/collectible05_BP : Can't find file for asset. /Game/Assets/Collectible/paperLantern
+[2018.10.06-19.12.32:499][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:499][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible05_BP.uasset.
+[2018.10.06-19.12.32:501][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:502][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/collectible05_BP.uasset.
+[2018.10.06-19.12.32:506][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:506][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:507][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:508][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:508][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:509][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:509][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:510][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:511][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:511][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:512][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:512][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:519][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:520][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:521][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:522][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:523][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:524][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:525][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:526][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:528][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:529][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:531][220]LogLinker: Warning: Can't find file '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter'
+[2018.10.06-19.12.32:531][220]LogLinker: Warning: Can't find file for asset '/Game/EikoPlayerCharacterBP/Blueprints/EikoPlayerCharacter' while loading NULL.
+[2018.10.06-19.12.32:536][220]LogLinker: Warning: Can't find file '/Game/Assets/Collectible/paperLantern'
+[2018.10.06-19.12.32:537][220]LogLinker: Warning: Can't find file for asset '/Game/Assets/Collectible/paperLantern' while loading NULL.
+[2018.10.06-19.12.32:552][220]LogBlueprint: Error: [Compiler collectible05_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:553][220]LogBlueprint: Warning: [Compiler collectible05_BP] Could not find a variable named "TotemsCollected" in 'collectible05_BP'.
+Make sure 'collectible05_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.12.32:554][220]LogBlueprint: Warning: [Compiler collectible05_BP] Could not find a variable named "TotemsCollected" in 'collectible05_BP'.
+Make sure 'collectible05_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.12.32:555][220]LogBlueprint: Error: [Compiler collectible05_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.12.32:555][220]LogBlueprint: Error: [Compiler collectible05_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.12.32:556][220]LogBlueprint: Error: [Compiler collectible05_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible05_BP.collectible05_BP_C'
+[2018.10.06-19.12.32:558][220]LogBlueprint: Error: [Compiler collectible05_BP] The property associated with  Totems Collected  could not be found in '/Game/Menus/Collectible/collectible05_BP.collectible05_BP_C'
+[2018.10.06-19.12.32:560][220]LogBlueprint: Warning: [Compiler collectible05_BP] [0457.96] Compile of collectible05_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 22 ms] (/Game/Menus/Collectible/collectible05_BP.collectible05_BP)
+[2018.10.06-19.12.35:504][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:504][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:BndEvt__collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:collectible01HIT' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:505][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.SKEL_collectible01_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:506][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:collectible01HIT' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:507][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:507][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:507][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:507][282]LogMetaData: Removing '/Game/Blueprints/collectible01_BP.collectible01_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible01_BP.PackageMetaData'
+[2018.10.06-19.12.35:563][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:563][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:564][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:BndEvt__collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:564][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:564][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:Collectible02HIT' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:564][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:564][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.SKEL_collectible02_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:Collectible02HIT' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:565][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:566][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:566][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:566][282]LogMetaData: Removing '/Game/Blueprints/collectible02_BP.collectible02_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible02_BP.PackageMetaData'
+[2018.10.06-19.12.35:591][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:591][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:591][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:BndEvt__collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:591][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:591][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:collectible03HIT' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.SKEL_collectible03_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:collectible03HIT' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:592][282]LogMetaData: Removing '/Game/Blueprints/collectible03_BP.collectible03_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible03_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:BndEvt__collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:collectbile04HIT' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.SKEL_collectible04_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:collectbile04HIT' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:615][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:616][282]LogMetaData: Removing '/Game/Blueprints/collectible04_BP.collectible04_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible04_BP.PackageMetaData'
+[2018.10.06-19.12.35:635][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:635][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:635][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:BndEvt__collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:635][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:collectible05HIT' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.SKEL_collectible05_BP_C' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:HIT' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:collectible05HIT' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:gem' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:collision' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:RotatingMovement' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:636][282]LogMetaData: Removing '/Game/Blueprints/collectible05_BP.collectible05_BP_C:UserConstructionScript' ref from Metadata '/Game/Menus/Collectible/collectible05_BP.PackageMetaData'
+[2018.10.06-19.12.35:664][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible01_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset" SILENT=true
+[2018.10.06-19.12.35:709][282]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible01_BPAFDD8CE74A91AE885349808514CD200A.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset'
+[2018.10.06-19.12.35:727][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible02_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible02_BP.uasset" SILENT=true
+[2018.10.06-19.12.35:772][282]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible02_BP780C22A84D9025CFBB9A5E897DA3E8AB.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible02_BP.uasset'
+[2018.10.06-19.12.35:790][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible03_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible03_BP.uasset" SILENT=true
+[2018.10.06-19.12.35:846][282]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible03_BP0AA52E3B4B9745378DCF51B43A807EDF.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible03_BP.uasset'
+[2018.10.06-19.12.35:864][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible04_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible04_BP.uasset" SILENT=true
+[2018.10.06-19.12.35:972][282]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible04_BP2E9085F94BD27F69600AA7ABF75FC57E.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible04_BP.uasset'
+[2018.10.06-19.12.35:996][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible05_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible05_BP.uasset" SILENT=true
+[2018.10.06-19.12.36:046][282]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible05_BPA7A1AA6E4000D688CBC62C91D1FC4CEE.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible05_BP.uasset'
+[2018.10.06-19.12.40:030][360]LogLinker: Warning: Can't find file '/Game/Assets/Temple/Materials/lantern_MAT'
+[2018.10.06-19.12.40:031][360]LogLinker: Warning: Can't find file for asset '/Game/Assets/Temple/Materials/lantern_MAT' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/paperLantern.uasset.
+[2018.10.06-19.12.40:031][360]LoadErrors: Error: /Game/Menus/Collectible/paperLantern : Can't find file for asset. /Game/Assets/Temple/Materials/lantern_MAT
+[2018.10.06-19.12.40:032][360]LogLinker: Warning: Can't find file '/Game/Assets/Temple/Materials/lantern_MAT'
+[2018.10.06-19.12.40:033][360]LogLinker: Warning: Can't find file for asset '/Game/Assets/Temple/Materials/lantern_MAT' while loading F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/paperLantern.uasset.
+[2018.10.06-19.12.40:037][360]LogLinker: Warning: Can't find file '/Game/Assets/Temple/Materials/lantern_MAT'
+[2018.10.06-19.12.40:037][360]LoadErrors: Failed to load /Game/Assets/Temple/Materials/lantern_MAT.lantern_MAT Referenced by paperLantern
+[2018.10.06-19.12.40:038][360]LogLinker: Warning: Can't find file for asset '/Game/Assets/Temple/Materials/lantern_MAT' while loading NULL.
+[2018.10.06-19.12.40:039][360]LogLinker: Warning: Can't find file '/Game/Assets/Temple/Materials/lantern_MAT'
+[2018.10.06-19.12.40:040][360]LogLinker: Warning: Can't find file for asset '/Game/Assets/Temple/Materials/lantern_MAT' while loading NULL.
+[2018.10.06-19.12.40:075][360]LogStaticMesh: Building static mesh paperLantern...
+[2018.10.06-19.12.40:190][360]LogStaticMesh: Built static mesh [0.12s] /Game/Menus/Collectible/paperLantern.paperLantern
+[2018.10.06-19.12.43:399][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/paperLantern" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Assets/paperLantern.uasset" SILENT=true
+[2018.10.06-19.12.43:437][462]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/paperLantern0447686B4A8A4825C3FBFEA86E36DD79.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Assets/paperLantern.uasset'
+[2018.10.06-19.12.49:653][597]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/collectible01_BP.collectible01_BP
+[2018.10.06-19.12.51:926][640]LogSlate: Took 0.001714 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.06-19.13.01:364][880]LogEditorTransaction: Undo Move Node
+[2018.10.06-19.13.19:747][350]LogRenderer: Reallocating scene render targets to support 1164x636 Format 10 NumSamples 1 (Frame:1).
+[2018.10.06-19.13.31:881][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.13.33:328][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.13.34:498][646]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.34:498][646]LogEditorTransaction: Undo Create Actors
+[2018.10.06-19.13.34:958][653]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.34:958][653]LogEditorTransaction: Undo Move Nodes
+[2018.10.06-19.13.35:554][663]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.35:554][663]LogEditorTransaction: Undo Move Node
+[2018.10.06-19.13.36:199][673]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.36:199][673]LogEditorTransaction: Undo Delete selection
+[2018.10.06-19.13.36:795][682]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.36:795][682]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.06-19.13.37:135][687]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.37:135][687]LogEditorTransaction: Undo Brush Set
+[2018.10.06-19.13.37:449][692]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.37:449][692]LogEditorTransaction: Undo Create Actors
+[2018.10.06-19.13.37:627][695]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.37:627][695]LogEditorTransaction: Undo Delete selection
+[2018.10.06-19.13.37:944][699]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.37:944][699]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.06-19.13.38:242][703]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.38:242][703]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.06-19.13.38:865][711]Cmd: TRANSACTION UNDO
+[2018.10.06-19.13.38:865][711]LogEditorTransaction: Undo Edit Distance Offset
+[2018.10.06-19.13.45:064][847]LogEditorActor: Deleted Actor: AtmosphericFog
+[2018.10.06-19.13.45:108][847]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.10.06-19.13.56:142][102]LogStaticMesh: Building static mesh gem...
+[2018.10.06-19.13.56:202][102]LogStaticMesh: Built static mesh [0.06s] /Game/Menus/Collectible/gem.gem
+[2018.10.06-19.13.58:096][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/gem" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Assets/gem.uasset" SILENT=true
+[2018.10.06-19.13.58:134][155]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/gem588DF11341802F34125EB08361E1AC3F.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Assets/gem.uasset'
+[2018.10.06-19.14.09:934][358]LogActorFactory: Actor Factory created paperLantern_lantern1
+[2018.10.06-19.14.10:742][381]LogActorFactory: Actor Factory created paperLantern_lantern1
+[2018.10.06-19.14.11:877][409]Cmd: DELETE
+[2018.10.06-19.14.11:877][409]Cmd: ACTOR DELETE
+[2018.10.06-19.14.11:895][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.06-19.14.12:012][409]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2018.10.06-19.14.12:849][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.14.13:063][421]LogActorFactory: Actor Factory created paperLantern
+[2018.10.06-19.14.13:412][425]LogActorFactory: Actor Factory created paperLantern
+[2018.10.06-19.14.13:823][428]Cmd: DELETE
+[2018.10.06-19.14.13:823][428]Cmd: ACTOR DELETE
+[2018.10.06-19.14.13:843][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.06-19.14.13:971][428]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2018.10.06-19.14.14:742][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.14.43:872][912]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.14.46:494][938]BlueprintLog: New page: Compile collectible01_BP
+[2018.10.06-19.14.46:569][938]LogBlueprint: Error: [Compiler collectible01_BP] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.14.46:570][938]LogBlueprint: Warning: [Compiler collectible01_BP] Could not find a variable named "TotemsCollected" in 'collectible01_BP'.
+Make sure 'collectible01_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.14.46:570][938]LogBlueprint: Warning: [Compiler collectible01_BP] Could not find a variable named "TotemsCollected" in 'collectible01_BP'.
+Make sure 'collectible01_BP' has been compiled for  Set TotemsCollected
+[2018.10.06-19.14.46:571][938]LogBlueprint: Error: [Compiler collectible01_BP] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.14.46:571][938]LogBlueprint: Error: [Compiler collectible01_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.14.46:573][938]LogBlueprint: Error: [Compiler collectible01_BP] The property associated with  Totems Collected  could not be found in '/Game/Blueprints/collectible01_BP.collectible01_BP_C'
+[2018.10.06-19.14.46:574][938]LogBlueprint: Error: [Compiler collectible01_BP] The property associated with  Totems Collected  could not be found in '/Game/Blueprints/collectible01_BP.collectible01_BP_C'
+[2018.10.06-19.14.47:335][938]LogBlueprint: Warning: [Compiler collectible01_BP] [0592.74] Compile of collectible01_BP failed. 5 Fatal Issue(s) 2 Warning(s) [in 840 ms] (/Game/Blueprints/collectible01_BP.collectible01_BP)
+[2018.10.06-19.14.48:623][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible01_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset" SILENT=true
+[2018.10.06-19.14.48:997][949]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible01_BP0EB648234859D6B82CE025B5D93E75AD.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset'
+[2018.10.06-19.14.55:989][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.15.00:461][113]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/collectible02_BP.collectible02_BP
+[2018.10.06-19.15.25:902][573]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.06-19.15.57:336][204]BlueprintLog: New page: Compile collectible01_BP
+[2018.10.06-19.15.58:997][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible01_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset" SILENT=true
+[2018.10.06-19.15.59:060][244]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible01_BP1D4B6B9E4F9762F0D646B292C63AA437.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset'
+[2018.10.06-19.16.01:637][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible01_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset" SILENT=true
+[2018.10.06-19.16.01:689][309]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible01_BP6AFE26AE4584BDEB9951DCA42D5F5608.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset'
+[2018.10.06-19.16.05:038][389]BlueprintLog: New page: Compile collectible01_BP
+[2018.10.06-19.16.05:970][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/collectible01_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset" SILENT=true
+[2018.10.06-19.16.06:188][389]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/collectible01_BP2953C30144DE61025E73CBB8BC453D13.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Blueprints/collectible01_BP.uasset'
+[2018.10.06-19.16.56:133][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.17.22:865][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.17.27:883][ 90]BlueprintLog: New page: Compile HUD_BP
+[2018.10.06-19.17.27:921][ 90]LogBlueprint: Error: [Compiler HUD_BP] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.17.27:922][ 90]LogBlueprint: Error: [Compiler HUD_BP] In use pin  As Eiko Player Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.10.06-19.17.27:922][ 90]LogBlueprint: Error: [Compiler HUD_BP] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.10.06-19.17.27:923][ 90]LogBlueprint: Warning: [Compiler HUD_BP] Could not find a variable named "TotemsCollected" in 'HUD_BP'.
+Make sure 'HUD_BP' has been compiled for  Get TotemsCollected
+[2018.10.06-19.17.27:924][ 90]LogBlueprint: Error: [Compiler HUD_BP] Binding: Property ' Text Delegate ' on Widget ' TextBlock_Collected ': Binding: 'TotemNumber' : 'TotemNumber' was not found on 'HUD BP'.
+[2018.10.06-19.17.28:329][ 90]LogBlueprint: Warning: [Compiler HUD_BP] [0753.73] Compile of HUD_BP failed. 4 Fatal Issue(s) 1 Warning(s) [in 445 ms] (/Game/Menus/Collectible/HUD_BP.HUD_BP)
+[2018.10.06-19.17.37:297][289]BlueprintLog: New page: Compile HUD_BP
+[2018.10.06-19.17.38:155][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/Collectible/HUD_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/HUD_BP.uasset" SILENT=true
+[2018.10.06-19.17.38:276][304]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/HUD_BP8D92FB114823F16BDB1772ACF98089C4.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/Collectible/HUD_BP.uasset'
+[2018.10.06-19.17.54:712][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.10.06-19.18.15:750][117]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.10.06-19.18.46:937][782]LogEditorTransaction: Undo Move Node
+[2018.10.06-19.19.06:036][214]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.06-19.19.08:553][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCharacter" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset" SILENT=true
+[2018.10.06-19.19.08:958][227]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/ThirdPersonCharacter5A2122A245C1894754D473944CA904DC.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset'
+[2018.10.06-19.19.26:065][579]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel
+[2018.10.06-19.20.49:929][413]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.10.06-19.20.52:792][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCharacter" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset" SILENT=true
+[2018.10.06-19.20.52:918][437]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/ThirdPersonCharacter4025A3E548543096F561C68ACEF5A8FC.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset'
+[2018.10.06-19.21.03:513][685]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StartMenu/StartMenu_BP.StartMenu_BP
+[2018.10.06-19.23.05:281][245]BlueprintLog: New page: Compile StartMenu_BP
+[2018.10.06-19.23.06:470][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StartMenu/StartMenu_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset" SILENT=true
+[2018.10.06-19.23.06:579][257]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/StartMenu_BPE9125C8E4D95F4A22D4F18A9AAA1D4B4.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset'
+[2018.10.06-19.23.08:084][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StartMenu/StartMenu_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset" SILENT=true
+[2018.10.06-19.23.08:417][283]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/StartMenu_BPC915E2A14A8C37B3C2DF85BF5F3ED587.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset'
+[2018.10.06-19.23.10:391][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.06-19.23.10:552][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.23.10:552][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.06-19.23.10:553][317]PIE: New page: PIE session: EikoMainLevel (Oct 6, 2018, 9:23:10 AM)
+[2018.10.06-19.23.10:553][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EikoMainLevel
+[2018.10.06-19.23.10:591][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037605s)
+[2018.10.06-19.23.10:594][317]LogAIModule: Creating AISystem for world EikoMainLevel
+[2018.10.06-19.23.10:594][317]LogPlayLevel: PIE: World Init took: (0.003008s)
+[2018.10.06-19.23.10:595][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EikoMainLevel.EikoMainLevel to /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel (0.041369s)
+[2018.10.06-19.23.10:741][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.06-19.23.10:784][317]LogInit: FAudioDevice initialized.
+[2018.10.06-19.23.10:820][317]LogLoad: Game class is 'GameModeBase'
+[2018.10.06-19.23.10:828][317]LogWorld: Bringing World /Game/UEDPIE_0_EikoMainLevel.EikoMainLevel up for play (max tick rate 60) at 2018.10.06-14.23.10
+[2018.10.06-19.23.10:828][317]LogWorld: Bringing up level for play took: 0.007040
+[2018.10.06-19.23.10:846][317]PIE: Play in editor start time for /Game/UEDPIE_0_EikoMainLevel -0.151
+[2018.10.06-19.23.10:846][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.23.12:432][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.06-19.23.22:906][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.23.22:907][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.23.23:001][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.06-19.23.23:002][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel' with GeneratedClass '/Game/EikoMainLevel.EikoMainLevel_C' with ClassGeneratedBy '/Game/EikoMainLevel.EikoMainLevel:PersistentLevel.EikoMainLevel'
+[2018.10.06-19.23.23:131][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.06-19.23.23:230][860]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.06-19.23.48:176][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.06-19.23.48:564][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EikoMainLevel" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Saved/Autosaves/Game/EikoMainLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.10.06-19.23.48:940][630]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/EikoMainLevel_Auto1426EBF8348925EA1B8A0FD98FFEA7DB3.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/Autosaves/Game/EikoMainLevel_Auto1.umap'
+[2018.10.06-19.23.48:950][630]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/EikoMainLevel' took 0.432
+[2018.10.06-19.23.48:950][630]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.432
+[2018.10.06-19.26.00:186][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EikoMainLevel" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/EikoMainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.10.06-19.26.00:905][696]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/EikoMainLevel53CAF7EA4C6882ECCCB6188F810A1DA6.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/EikoMainLevel.umap'
+[2018.10.06-19.26.00:965][696]LogFileHelpers: Saving map 'EikoMainLevel' took 1.013
+[2018.10.06-19.27.02:209][436]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/Collectible/AllPiecesCollected.AllPiecesCollected
+[2018.10.06-19.27.44:647][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP_C' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:647][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:647][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:647][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:647][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP:TotemNumber.K2Node_FunctionEntry_0' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP:TotemNumber.K2Node_FunctionResult_0' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.SKEL_HUD_BP_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.SKEL_HUD_BP_C' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.SKEL_HUD_BP_C:Construct' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.SKEL_HUD_BP_C:Tick' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.SKEL_HUD_BP_C:TextBlock_Collected' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:648][523]LogMetaData: Removing '/Game/Menus/StoryMode/HUD_BP.HUD_BP_C:TextBlock_Collected' ref from Metadata '/Game/Menus/Collectible/HUD_BP.PackageMetaData'
+[2018.10.06-19.27.44:681][523]LogMetaData: Removing '/Game/Menus/StoryMode/AllPiecesCollected.AllPiecesCollected_C' ref from Metadata '/Game/Menus/Collectible/AllPiecesCollected.PackageMetaData'
+[2018.10.06-19.27.44:681][523]LogMetaData: Removing '/Game/Menus/StoryMode/AllPiecesCollected.SKEL_AllPiecesCollected_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/AllPiecesCollected.PackageMetaData'
+[2018.10.06-19.27.44:681][523]LogMetaData: Removing '/Game/Menus/StoryMode/AllPiecesCollected.SKEL_AllPiecesCollected_C:Construct' ref from Metadata '/Game/Menus/Collectible/AllPiecesCollected.PackageMetaData'
+[2018.10.06-19.27.44:681][523]LogMetaData: Removing '/Game/Menus/StoryMode/AllPiecesCollected.SKEL_AllPiecesCollected_C:Tick' ref from Metadata '/Game/Menus/Collectible/AllPiecesCollected.PackageMetaData'
+[2018.10.06-19.27.44:681][523]LogMetaData: Removing '/Game/Menus/StoryMode/AllPiecesCollected.SKEL_AllPiecesCollected_C' ref from Metadata '/Game/Menus/Collectible/AllPiecesCollected.PackageMetaData'
+[2018.10.06-19.27.44:710][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection05.storySection05_C' ref from Metadata '/Game/Menus/Collectible/storySection05.PackageMetaData'
+[2018.10.06-19.27.44:710][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection05.SKEL_storySection05_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/storySection05.PackageMetaData'
+[2018.10.06-19.27.44:710][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection05.SKEL_storySection05_C:Construct' ref from Metadata '/Game/Menus/Collectible/storySection05.PackageMetaData'
+[2018.10.06-19.27.44:710][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection05.SKEL_storySection05_C:Tick' ref from Metadata '/Game/Menus/Collectible/storySection05.PackageMetaData'
+[2018.10.06-19.27.44:710][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection05.SKEL_storySection05_C' ref from Metadata '/Game/Menus/Collectible/storySection05.PackageMetaData'
+[2018.10.06-19.27.44:733][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection04.storySection04_C' ref from Metadata '/Game/Menus/Collectible/storySection04.PackageMetaData'
+[2018.10.06-19.27.44:733][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection04.SKEL_storySection04_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/storySection04.PackageMetaData'
+[2018.10.06-19.27.44:733][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection04.SKEL_storySection04_C:Construct' ref from Metadata '/Game/Menus/Collectible/storySection04.PackageMetaData'
+[2018.10.06-19.27.44:733][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection04.SKEL_storySection04_C:Tick' ref from Metadata '/Game/Menus/Collectible/storySection04.PackageMetaData'
+[2018.10.06-19.27.44:733][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection04.SKEL_storySection04_C' ref from Metadata '/Game/Menus/Collectible/storySection04.PackageMetaData'
+[2018.10.06-19.27.44:756][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection03.storySection03_C' ref from Metadata '/Game/Menus/Collectible/storySection03.PackageMetaData'
+[2018.10.06-19.27.44:756][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection03.SKEL_storySection03_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/storySection03.PackageMetaData'
+[2018.10.06-19.27.44:756][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection03.SKEL_storySection03_C:Construct' ref from Metadata '/Game/Menus/Collectible/storySection03.PackageMetaData'
+[2018.10.06-19.27.44:756][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection03.SKEL_storySection03_C:Tick' ref from Metadata '/Game/Menus/Collectible/storySection03.PackageMetaData'
+[2018.10.06-19.27.44:756][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection03.SKEL_storySection03_C' ref from Metadata '/Game/Menus/Collectible/storySection03.PackageMetaData'
+[2018.10.06-19.27.44:780][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection02.storySection02_C' ref from Metadata '/Game/Menus/Collectible/storySection02.PackageMetaData'
+[2018.10.06-19.27.44:780][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection02.SKEL_storySection02_C:PreConstruct' ref from Metadata '/Game/Menus/Collectible/storySection02.PackageMetaData'
+[2018.10.06-19.27.44:780][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection02.SKEL_storySection02_C:Construct' ref from Metadata '/Game/Menus/Collectible/storySection02.PackageMetaData'
+[2018.10.06-19.27.44:780][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection02.SKEL_storySection02_C:Tick' ref from Metadata '/Game/Menus/Collectible/storySection02.PackageMetaData'
+[2018.10.06-19.27.44:780][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection02.SKEL_storySection02_C' ref from Metadata '/Game/Menus/Collectible/storySection02.PackageMetaData'
+[2018.10.06-19.27.44:795][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection01.storySection01_C' ref from Metadata '/Game/Menus/Collectible/storySection01.PackageMetaData'
+[2018.10.06-19.27.44:795][523]LogMetaData: Removing '/Game/Menus/StoryMode/storySection01.SKEL_storySection01_C' ref from Metadata '/Game/Menus/Collectible/storySection01.PackageMetaData'
+[2018.10.06-19.27.44:816][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/HUD_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/HUD_BP.uasset" SILENT=true
+[2018.10.06-19.27.44:847][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/HUD_BP8E39B1B8467B14E2898849AB45DF8703.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/HUD_BP.uasset'
+[2018.10.06-19.27.44:861][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/AllPiecesCollected" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/AllPiecesCollected.uasset" SILENT=true
+[2018.10.06-19.27.44:884][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/AllPiecesCollected14E9937A4338330E5885F087559D1F71.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/AllPiecesCollected.uasset'
+[2018.10.06-19.27.44:896][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection05" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection05.uasset" SILENT=true
+[2018.10.06-19.27.44:914][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection0541F50DFE435385C48D959B968EDA14D3.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection05.uasset'
+[2018.10.06-19.27.44:927][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection04" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection04.uasset" SILENT=true
+[2018.10.06-19.27.44:947][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection04EC25AB7F4EDEB5EC767B4AAB405353EE.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection04.uasset'
+[2018.10.06-19.27.44:960][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection03" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection03.uasset" SILENT=true
+[2018.10.06-19.27.45:033][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection036BDF061B473C91349DCBC1B5E8C44848.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection03.uasset'
+[2018.10.06-19.27.45:049][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection02" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset" SILENT=true
+[2018.10.06-19.27.45:068][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection02DF7686C9438AC76CD4D51EB87A6DA90A.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset'
+[2018.10.06-19.27.45:082][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection01" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection01.uasset" SILENT=true
+[2018.10.06-19.27.45:098][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection014B659B2A4C0143E282AB9A8BE696DD9C.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection01.uasset'
+[2018.10.06-19.27.47:331][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonCharacter" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset" SILENT=true
+[2018.10.06-19.27.47:704][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/ThirdPersonCharacter6AC03BF24CAD7D7F7AB726BEA7550642.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/ThirdPersonCharacter.uasset'
+[2018.10.06-19.27.47:737][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StartMenu/StartMenu_BP" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset" SILENT=true
+[2018.10.06-19.27.48:035][523]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/StartMenu_BP2A4A82DD42698FCD1EA9DB9EE1CD5E91.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StartMenu/StartMenu_BP.uasset'
+[2018.10.06-19.27.54:821][710]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StoryMode/storySection01.storySection01
+[2018.10.06-19.28.33:594][567]LogEditorTransaction: Undo Changed Anchors
+[2018.10.06-19.31.07:815][254]LogEditorTransaction: Undo Changed Anchors
+[2018.10.06-19.31.08:084][261]LogEditorTransaction: Undo Resize Widget
+[2018.10.06-19.31.08:403][269]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.08:618][275]LogEditorTransaction: Undo Edit Y
+[2018.10.06-19.31.08:807][280]LogEditorTransaction: Undo Edit Y
+[2018.10.06-19.31.08:994][285]LogEditorTransaction: Undo Edit Y
+[2018.10.06-19.31.09:369][296]LogEditorTransaction: Undo Edit Y
+[2018.10.06-19.31.09:581][302]LogEditorTransaction: Undo Edit Y
+[2018.10.06-19.31.09:760][307]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.09:982][313]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.10:227][320]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.10:441][326]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.10:657][332]LogEditorTransaction: Undo Edit X
+[2018.10.06-19.31.10:846][337]LogEditorTransaction: Undo Set Vector Property
+[2018.10.06-19.31.11:068][343]LogEditorTransaction: Undo Edit Blur Strength
+[2018.10.06-19.31.11:252][348]LogEditorTransaction: Undo Edit Vertical Alignment
+[2018.10.06-19.31.11:442][353]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2018.10.06-19.31.11:629][358]LogEditorTransaction: Undo Move Widget
+[2018.10.06-19.31.11:814][363]LogEditorTransaction: Undo Add Widget
+[2018.10.06-19.31.12:217][375]LogEditorTransaction: Undo Wrap Widgets
+[2018.10.06-19.31.17:282][496]BlueprintLog: New page: Compile storySection01
+[2018.10.06-19.31.18:156][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection01" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection01.uasset" SILENT=true
+[2018.10.06-19.31.18:187][522]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection016EA0DD5443928BE7A4907DBB349E90F9.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection01.uasset'
+[2018.10.06-19.31.25:485][739]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StoryMode/storySection02.storySection02
+[2018.10.06-19.32.18:611][263]BlueprintLog: New page: Compile storySection02
+[2018.10.06-19.32.19:369][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection02" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset" SILENT=true
+[2018.10.06-19.32.19:817][285]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection023BAB9B304571BA899B8C2FB8A1838AAF.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset'
+[2018.10.06-19.32.44:239][859]BlueprintLog: New page: Compile storySection02
+[2018.10.06-19.32.45:564][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menus/StoryMode/storySection02" FILE="F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset" SILENT=true
+[2018.10.06-19.32.45:918][874]LogSavePackage: Moving 'F:/My Documents/GitHub/EikoFotM/Eiko/Saved/storySection0216CBB18344C15C00C2EC7E9DE9DA2B35.tmp' to 'F:/My Documents/GitHub/EikoFotM/Eiko/Content/Menus/StoryMode/storySection02.uasset'
+[2018.10.06-19.32.52:589][ 37]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StoryMode/storySection03.storySection03
+[2018.10.06-19.32.55:782][123]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StoryMode/storySection04.storySection04
+[2018.10.06-19.32.59:857][210]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Menus/StoryMode/storySection05.storySection05
+[2018.10.06-19.35.29:698][829]LogEditorTransaction: Undo Edit Text
+[2018.10.06-19.35.31:418][829]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.698 s
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: 
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: 
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: Stack: 
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc99e171e6 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc99b50c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc99b6b346 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc9023eedf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc901e4576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:418][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8f6d9e58 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8f67e237 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8f6b294b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8f72298d UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8460bc87 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffcae676812 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffcae658829 UE4Editor-EditorWidgets.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffca6b78e57 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffca6b26a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffca69393b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffca68d1444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8b966cd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8b905a96 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8b8973c4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8b999a79 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8b95ee5b UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc9892fce9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc8117d8d3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc905b49b5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc98a9e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc901e4dc6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc902101fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc901f6535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc90262dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc902a9b6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:419][829]LogOutputDevice: Error: [Callstack] 0x00007ffc9023c81f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffc989305b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffca68d24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffca691437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffc90a93a6e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffc90a81a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffca68970ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffca691606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffca6909846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcc190ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcc1900270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcc190f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcc18fc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcde446cc1 USER32.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcde446693 USER32.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcc1910646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ff72f1954e5 UE4Editor.exe!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ff72f1a5b3c UE4Editor.exe!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ff72f1a5bba UE4Editor.exe!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ff72f1b3dac UE4Editor.exe!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ff72f1b5aaa UE4Editor.exe!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcdc553034 KERNEL32.DLL!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: [Callstack] 0x00007ffcdf121461 ntdll.dll!UnknownFunction []
+[2018.10.06-19.35.31:420][829]LogOutputDevice: Error: 
+[2018.10.06-19.35.31:423][829]LogStats:                SubmitErrorReport -  0.000 s
