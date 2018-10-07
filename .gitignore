@@ -77,3 +77,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 .DS_Store
 *.ini
+*.log
+*.log
+*.dmp
+*.ini
+*.runtime-xml
+*.json
